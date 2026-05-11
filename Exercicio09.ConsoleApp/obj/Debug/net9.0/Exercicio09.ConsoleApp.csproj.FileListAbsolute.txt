@@ -1,0 +1,15 @@
+C:\Academia C#\ExerciciosPOO\Exercicio09.ConsoleApp\bin\Debug\net9.0\Exercicio09.ConsoleApp.exe
+C:\Academia C#\ExerciciosPOO\Exercicio09.ConsoleApp\bin\Debug\net9.0\Exercicio09.ConsoleApp.deps.json
+C:\Academia C#\ExerciciosPOO\Exercicio09.ConsoleApp\bin\Debug\net9.0\Exercicio09.ConsoleApp.runtimeconfig.json
+C:\Academia C#\ExerciciosPOO\Exercicio09.ConsoleApp\bin\Debug\net9.0\Exercicio09.ConsoleApp.dll
+C:\Academia C#\ExerciciosPOO\Exercicio09.ConsoleApp\bin\Debug\net9.0\Exercicio09.ConsoleApp.pdb
+C:\Academia C#\ExerciciosPOO\Exercicio09.ConsoleApp\obj\Debug\net9.0\Exercicio09.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Academia C#\ExerciciosPOO\Exercicio09.ConsoleApp\obj\Debug\net9.0\Exercicio09.ConsoleApp.AssemblyInfoInputs.cache
+C:\Academia C#\ExerciciosPOO\Exercicio09.ConsoleApp\obj\Debug\net9.0\Exercicio09.ConsoleApp.AssemblyInfo.cs
+C:\Academia C#\ExerciciosPOO\Exercicio09.ConsoleApp\obj\Debug\net9.0\Exercicio09.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Academia C#\ExerciciosPOO\Exercicio09.ConsoleApp\obj\Debug\net9.0\Exercicio09.ConsoleApp.sourcelink.json
+C:\Academia C#\ExerciciosPOO\Exercicio09.ConsoleApp\obj\Debug\net9.0\Exercicio09.ConsoleApp.dll
+C:\Academia C#\ExerciciosPOO\Exercicio09.ConsoleApp\obj\Debug\net9.0\refint\Exercicio09.ConsoleApp.dll
+C:\Academia C#\ExerciciosPOO\Exercicio09.ConsoleApp\obj\Debug\net9.0\Exercicio09.ConsoleApp.pdb
+C:\Academia C#\ExerciciosPOO\Exercicio09.ConsoleApp\obj\Debug\net9.0\Exercicio09.ConsoleApp.genruntimeconfig.cache
+C:\Academia C#\ExerciciosPOO\Exercicio09.ConsoleApp\obj\Debug\net9.0\ref\Exercicio09.ConsoleApp.dll
