@@ -1,0 +1,15 @@
+C:\Academia C#\ExerciciosPOO\Exercicio10.ConsoleApp\bin\Debug\net9.0\Exercicio10.ConsoleApp.exe
+C:\Academia C#\ExerciciosPOO\Exercicio10.ConsoleApp\bin\Debug\net9.0\Exercicio10.ConsoleApp.deps.json
+C:\Academia C#\ExerciciosPOO\Exercicio10.ConsoleApp\bin\Debug\net9.0\Exercicio10.ConsoleApp.runtimeconfig.json
+C:\Academia C#\ExerciciosPOO\Exercicio10.ConsoleApp\bin\Debug\net9.0\Exercicio10.ConsoleApp.dll
+C:\Academia C#\ExerciciosPOO\Exercicio10.ConsoleApp\bin\Debug\net9.0\Exercicio10.ConsoleApp.pdb
+C:\Academia C#\ExerciciosPOO\Exercicio10.ConsoleApp\obj\Debug\net9.0\Exercicio10.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Academia C#\ExerciciosPOO\Exercicio10.ConsoleApp\obj\Debug\net9.0\Exercicio10.ConsoleApp.AssemblyInfoInputs.cache
+C:\Academia C#\ExerciciosPOO\Exercicio10.ConsoleApp\obj\Debug\net9.0\Exercicio10.ConsoleApp.AssemblyInfo.cs
+C:\Academia C#\ExerciciosPOO\Exercicio10.ConsoleApp\obj\Debug\net9.0\Exercicio10.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Academia C#\ExerciciosPOO\Exercicio10.ConsoleApp\obj\Debug\net9.0\Exercicio10.ConsoleApp.sourcelink.json
+C:\Academia C#\ExerciciosPOO\Exercicio10.ConsoleApp\obj\Debug\net9.0\Exercicio10.ConsoleApp.dll
+C:\Academia C#\ExerciciosPOO\Exercicio10.ConsoleApp\obj\Debug\net9.0\refint\Exercicio10.ConsoleApp.dll
+C:\Academia C#\ExerciciosPOO\Exercicio10.ConsoleApp\obj\Debug\net9.0\Exercicio10.ConsoleApp.pdb
+C:\Academia C#\ExerciciosPOO\Exercicio10.ConsoleApp\obj\Debug\net9.0\Exercicio10.ConsoleApp.genruntimeconfig.cache
+C:\Academia C#\ExerciciosPOO\Exercicio10.ConsoleApp\obj\Debug\net9.0\ref\Exercicio10.ConsoleApp.dll
