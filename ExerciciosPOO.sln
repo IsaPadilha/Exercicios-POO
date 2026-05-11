@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio06.ConsoleApp", "E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio07.ConsoleApp", "Exercicio07.ConsoleApp\Exercicio07.ConsoleApp.csproj", "{E181AD89-551A-4AEC-97A8-88FF43077E1C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio08.ConsoleApp", "Exercicio08.ConsoleApp\Exercicio08.ConsoleApp.csproj", "{DB3C0027-E5C9-46F6-9892-696ECC740E60}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,18 @@ Global
 		{E181AD89-551A-4AEC-97A8-88FF43077E1C}.Release|x64.Build.0 = Release|Any CPU
 		{E181AD89-551A-4AEC-97A8-88FF43077E1C}.Release|x86.ActiveCfg = Release|Any CPU
 		{E181AD89-551A-4AEC-97A8-88FF43077E1C}.Release|x86.Build.0 = Release|Any CPU
+		{DB3C0027-E5C9-46F6-9892-696ECC740E60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB3C0027-E5C9-46F6-9892-696ECC740E60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB3C0027-E5C9-46F6-9892-696ECC740E60}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{DB3C0027-E5C9-46F6-9892-696ECC740E60}.Debug|x64.Build.0 = Debug|Any CPU
+		{DB3C0027-E5C9-46F6-9892-696ECC740E60}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DB3C0027-E5C9-46F6-9892-696ECC740E60}.Debug|x86.Build.0 = Debug|Any CPU
+		{DB3C0027-E5C9-46F6-9892-696ECC740E60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB3C0027-E5C9-46F6-9892-696ECC740E60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB3C0027-E5C9-46F6-9892-696ECC740E60}.Release|x64.ActiveCfg = Release|Any CPU
+		{DB3C0027-E5C9-46F6-9892-696ECC740E60}.Release|x64.Build.0 = Release|Any CPU
+		{DB3C0027-E5C9-46F6-9892-696ECC740E60}.Release|x86.ActiveCfg = Release|Any CPU
+		{DB3C0027-E5C9-46F6-9892-696ECC740E60}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
